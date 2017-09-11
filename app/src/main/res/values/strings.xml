@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise1_firstApp</string>
+    <string name="hello_wolrd">Hello World!</string>
+    <string name="hello_world_land">Hello Landscape World!</string>
+</resources>

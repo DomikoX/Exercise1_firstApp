@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise1_PrvaApplikacia</string>
+    <string name="hello_wolrd">Ahoj Svet!</string>
+    <string name="hello_world_land">Ahoj otoceny svet !</string>
+</resources>
